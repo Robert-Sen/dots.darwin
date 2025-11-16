@@ -1,0 +1,1708 @@
+{
+  "BTTPresetCreatorNotes" : "",
+  "BTTPresetInfoURL" : "",
+  "BTTPresetName" : "Default",
+  "BTTPresetColor" : "37.997040, 12.301200, 205.020000, 255.000000",
+  "BTTGeneralSettings" : {
+    "BTTPathSampleSize" : 100,
+    "BTTCMOnTop" : true,
+    "BTTForceForceClickPressure2F" : 700,
+    "BSTLeftHalfBlock" : true,
+    "BTTMinDrawingMovement" : 2,
+    "BTTTouchBarMouseModeClickBlock" : true,
+    "BSTRightHalfBlock" : true,
+    "disableScrollingIf2" : true,
+    "batteryWarning" : false,
+    "BSTDontShowSnapAreasWhileModMoving" : 0,
+    "BSTWindowGrabPosY" : 10,
+    "showTrackpadTab" : true,
+    "singleFingerTapRight" : 0.05000000074505806,
+    "BTTDrawingStrokeWidth" : 4,
+    "cornerSnap" : true,
+    "BTRScrollSpeed" : 1,
+    "BTTTouchBarHapticFeedbackRelease" : 0,
+    "BSTIncreaseSnappingArea" : true,
+    "showDrawingsTab" : true,
+    "SIRIMouseSpeed" : 1,
+    "BTTUseNewUI" : true,
+    "BSTEnableEnhancementCheck" : true,
+    "BTTNotchBarNotchWidgetModeHideLeftFixed" : false,
+    "useAppleRemotePlugin" : false,
+    "BTTTouchBarFontSize" : 15,
+    "BSTSnapAreaDefaultPictoDistanceFromBottom" : 0.10000000149011612,
+    "BTRMouseSpeed" : 1,
+    "BSTPreventTopMissionControl" : true,
+    "BSTSnapAreaDefaultDashedBorder" : false,
+    "BTTEnablePalmRecognition" : true,
+    "BSTBrokenAPICheckEnabled" : false,
+    "BTTStageManagerLeftGap" : 190,
+    "BTTAllowThumbIfAllFingersArePlacedSimultaneously" : true,
+    "BTTNotchBarStandardMenubarModeHideRightFixed" : false,
+    "BTTNotchBarNotchWidgetModeShowMiniMenubar" : true,
+    "BTTStageManagerSnappingIncreaseAbsolute" : false,
+    "BTTShowControlStripItem" : true,
+    "BSTSnapAreaDefaultCornerRadius" : 20,
+    "BTTNotchBarNotchMenubarModeHideLeftFixed" : true,
+    "BTTMovePastedToTop" : true,
+    "BTTMaxAllowedDrawingRotation" : 30,
+    "BTTDidRegisterForUpdateStats" : "5.690",
+    "BTTNotchBarNotchWidgetModeHideRightFixed" : false,
+    "BTTStageManagerLeaveGap" : true,
+    "BTTStageManagerLeftSnappingAreaIncreasePercentage" : 0.125,
+    "BTTTpFourFingerSwipeSensitivity" : 0.40000000000000002,
+    "BSTMoveTreshold" : 2,
+    "BTTHideFomControlStripWhenOpen" : false,
+    "BTTNumberOfStarts" : 32,
+    "BTTForceNormalClickPressure3F" : 150,
+    "showSiriRemoteTab" : true,
+    "SIRIScrollSpeed" : 1,
+    "BTTShowControlStrip" : true,
+    "SHOWEDHIDEMENUBARWARNING" : true,
+    "tpThreeFingerDoubleTapDelay" : 0.5,
+    "showNormalMiceTab" : true,
+    "BTTNotchBarStandardMenubarModeHideLeftScrollable" : true,
+    "BSTSnapAreaDefaultBorderWidth" : 3,
+    "BTTTouchBarHapticFeedback" : 0,
+    "BTTForceNormalClickPressure" : 150,
+    "BTTDrawingRightMouse" : true,
+    "BTTConvertedDevices" : true,
+    "snapBottomRight" : true,
+    "BTTThreeFingerTipTapMinSpread" : 0.029999999999999999,
+    "BTTTouchBarVisible" : false,
+    "BTTIMGURDefault" : true,
+    "BTTNotchBarShowOnStandardScreens" : true,
+    "BSTSnapAreaDefaultBackgroundColor" : "129.991390, 201.122858, 227.012328, 104.550000",
+    "BSTSnapAreaDefaultPictoSize" : 0.69999998807907104,
+    "BSTSnapAreaDefaultBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTNotchBarNotchMenubarModeHideLeftScrollable" : true,
+    "BTTNotchBarNotchMenubarModeShowOriginalStatusIcons" : true,
+    "BSTTopMissionControlTreshold" : 34,
+    "BTTNotchBarNotchWidgetModeHideRightScrollable" : false,
+    "BSTSnapAreaDefaultHighlightColor" : "92.625563, 122.647995, 161.664347, 56.100000",
+    "BTTStageManagerLeftGapPercentage" : 0.10000000000000001,
+    "BTTForceForceClickPressure5F" : 600,
+    "BTTForceForceClickPressure" : 700,
+    "BSTMemorySaver" : true,
+    "BTTLastClamshellState" : false,
+    "BTTStageManagerLeaveGapEvenIfHiding" : false,
+    "BTTTouchBarAnimateGroups" : true,
+    "BTTShowBTTWhenControlStripHidden" : true,
+    "BTTFreeSpaceAfterESC" : 10,
+    "mmZoomRepeatDelay" : 0.10000000000000001,
+    "snapTopLeft" : true,
+    "BTTDrawingAreaWidth" : 915,
+    "BTTTiltWheelDelay" : 0.44999998807907104,
+    "twoFingerDoubleTapDelay" : 0.5,
+    "BTTForceNormalClickPressure5F" : 200,
+    "BTTShowESCWhenControlStripHidden" : true,
+    "showBTTRemoteTab" : true,
+    "BTTFilterMagicMouseLeftRightEdge" : true,
+    "BTTNotchBarStandardWidgetModeShowOriginalStatusIcons" : false,
+    "BTTDrawingsHighlightStartPoint" : true,
+    "BTTEnableUsageLogging" : true,
+    "snapBottomLeft" : true,
+    "BTTScreenshotOpenImgurInBrowser" : true,
+    "BTTDontRestartAfterSleep" : true,
+    "BTTForceNormalClickPressure2F" : 140,
+    "BSTSnapAreaDefaultInvisible" : false,
+    "BTTDrawingAreaHeight" : 626,
+    "BTTForceForceClickPressure4F" : 650,
+    "BTTTouchBarUseMonoSpacedFont" : true,
+    "BSTCornerRoundness" : 40,
+    "BTTStageManagerLeftSnappingAreaIncrease" : 222,
+    "BTTForceForceHapticResponse" : 13,
+    "BTTNotchBarStandardMenubarModeHideLeftFixed" : true,
+    "showMagicMouseTab" : true,
+    "BTTNotchBarNotchWidgetModeShowOriginalStatusIcons" : false,
+    "BTTAlwaysShowPresetIndicators" : true,
+    "BTTStageManagerIncreaseEvenIfHiding" : true,
+    "BTTForcedHidden" : false,
+    "showTouchBarTab" : true,
+    "BTTFreeSpaceAfterBTT" : 20,
+    "BTTNotchBarStandardWidgetModeHideRightFixed" : false,
+    "BTTTwoFingerTipTapMinSpread" : 0.029999999999999999,
+    "BTTDismissIfNothingToShow" : true,
+    "BTTDrawingsRestoreMousePosition" : true,
+    "BSTDisableSnapAreas" : false,
+    "BTTDefaultTBIconWidth" : 22,
+    "BTTStageManagerLeftGapAbsolute" : false,
+    "snapTopRight" : true,
+    "BSTSnapAreaDefaultShowPictogram" : false,
+    "BTTSelectedKeyboardTabIndex" : 0,
+    "BTTTouchBarKeepIconRatio" : true,
+    "BSTBrokenAPICheckDelay" : 0.20000000000000001,
+    "BTTStageManagerIncrease" : true,
+    "showKeyboardTab" : true,
+    "BTTForceForceClickPressure3F" : 700,
+    "disableScrollingIf3" : true,
+    "BSTWindowGrabPosX" : 67,
+    "BTTHandleThumbsRestingOnTopEdgeAndCorners" : true,
+    "BTTAutoSwitchToOldKeyboardImplementation" : true,
+    "BTTTpThreeFingerSwipeSensitivity" : 0.29999999999999999,
+    "BTTCopyImgurURLToClipboard" : true,
+    "BTTForceNormalHapticResponse" : 12,
+    "BTTTouchBarSupportEnabled" : true,
+    "BTTDaysToKeepHistory" : 14,
+    "BTTNotchBarNotchMenubarModeHideRightFixed" : true,
+    "BTTDefaultTBIconHeight" : 22,
+    "BTTNotchBarStandardMenubarModeShowOriginalStatusIcons" : true,
+    "BTTNotchBarStandardWidgetModeHideLeftFixed" : false,
+    "singleFingerTapLeft" : 0.44999998807907104,
+    "BTTNotchBarStandardWidgetModeHideLeftScrollable" : false,
+    "BTTForceNormalClickPressure4F" : 175,
+    "BTTNotchBarNotchWidgetModeHideLeftScrollable" : false,
+    "BSTSnapAreaDefaultAnimationDuration" : 0.30000001192092896,
+    "BTTNotchBarStandardWidgetModeHideRightScrollable" : false,
+    "BTTNotchBarStandardMenubarModeHideRightScrollable" : false,
+    "BTTNoShortcutDelay" : true,
+    "showOtherTriggersTab" : true,
+    "BTTNotchBarNotchMenubarModeHideRightScrollable" : true,
+    "BSTSnapAreaDefaultPictoDistanceFromLeft" : 0.10000000149011612
+  },
+  "BTTPresetUUID" : "FD53E889-3056-4FC4-88F6-BA5809988D44",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "com.google.Chrome",
+      "BTTAppName" : "Google Chrome",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTAppProcessMatchMode" : 2,
+      "BTTAppProcessName" : "Google Chrome",
+      "BTTTriggers" : [
+        {
+          "BTTLastUpdatedAt" : 1762246368.0583391,
+          "BTTTriggerType" : 102,
+          "BTTTriggerTypeDescriptionReadOnly" : "3 Finger Swipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTUUID" : "0F9578C4-B87B-4740-A953-C132418C0AF7",
+          "BTTRepeatRate" : 0.15999999642372131,
+          "BTTRepeatDelay" : 0.10000000149011612,
+          "BTTOrder" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.058548,
+              "BTTTriggerParentUUID" : "0F9578C4-B87B-4740-A953-C132418C0AF7",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+              "BTTUUID" : "824DE5AF-221A-4897-8570-3393F8DB2E2A",
+              "BTTShortcutToSend" : "56,55,33",
+              "BTTOrder" : 9
+            }
+          ]
+        },
+        {
+          "BTTLastUpdatedAt" : 1762246368.058284,
+          "BTTTriggerType" : 103,
+          "BTTTriggerTypeDescriptionReadOnly" : "3 Finger Swipe Down",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTUUID" : "E7E3397D-B238-4113-AFF6-8E478B6F497F",
+          "BTTRepeatRate" : 0.15999999642372131,
+          "BTTRepeatDelay" : 0.10000000149011612,
+          "BTTOrder" : 1,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.058578,
+              "BTTTriggerParentUUID" : "E7E3397D-B238-4113-AFF6-8E478B6F497F",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+              "BTTUUID" : "63376AED-BDAE-4973-BFCF-675F0EFE2369",
+              "BTTShortcutToSend" : "56,55,30",
+              "BTTOrder" : 10
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTNoTouchTimeout" : 0
+          }
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "BT.L",
+      "BTTAppName" : "Recently Used",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "net.kovidgoyal.kitty",
+      "BTTAppName" : "kitty",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTAppProcessMatchMode" : 2,
+      "BTTAppProcessName" : "kitty",
+      "BTTTriggers" : [
+        {
+          "BTTLastUpdatedAt" : 1762246368.058316,
+          "BTTTriggerType" : 102,
+          "BTTTriggerTypeDescriptionReadOnly" : "3 Finger Swipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTUUID" : "55164C53-06E1-4DF1-85BD-3E5335F1B292",
+          "BTTOrder" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.058619,
+              "BTTTriggerParentUUID" : "55164C53-06E1-4DF1-85BD-3E5335F1B292",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+              "BTTUUID" : "1C249F34-7B22-44E2-ABC4-22F93E29A602",
+              "BTTShortcutToSend" : "56,55,33",
+              "BTTOrder" : 9
+            }
+          ]
+        },
+        {
+          "BTTLastUpdatedAt" : 1762246368.0585918,
+          "BTTTriggerType" : 103,
+          "BTTTriggerTypeDescriptionReadOnly" : "3 Finger Swipe Down",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTUUID" : "430C5322-C13E-47D9-B4AD-899FBD45D17A",
+          "BTTOrder" : 1,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.05861,
+              "BTTTriggerParentUUID" : "430C5322-C13E-47D9-B4AD-899FBD45D17A",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+              "BTTUUID" : "8A6D1BFA-A9CF-4E08-8C4F-19BBA1B7AC81",
+              "BTTShortcutToSend" : "56,55,30",
+              "BTTOrder" : 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTAppSpecificSettings" : {
+        "BTTDisableGlobalTriggers" : false
+      },
+      "BTTTriggers" : [
+        {
+          "BTTLastUpdatedAt" : 1763269981.9998779,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "54A69503-D386-4507-B8F3-2CBC9D635DD3",
+          "BTTAdditionalConfiguration" : "8912960",
+          "BTTShortcutScope" : 0,
+          "BTTShortcutKeyboardType" : -2052004921,
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 1,
+          "BTTShortcutKeyCode" : 126,
+          "BTTShortcutAdvancedModifierKeys" : "8912960",
+          "BTTShortcutModifierKeys" : 8912896,
+          "BTTOrder" : 8,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762739619.6281772,
+              "BTTTriggerParentUUID" : "54A69503-D386-4507-B8F3-2CBC9D635DD3",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "9579150C-AD3F-4AE5-BB79-4E8AAB4AF6DD",
+              "BTTPredefinedActionType" : 31,
+              "BTTPredefinedActionName" : "Keyboard Illumination Up",
+              "BTTShortcutKeyboardType" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 4,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ],
+          "BTTGestureNotes" : "keyboard backlight up",
+          "BTTTriggerConfig" : {
+            "BTTLeftRightModifierDifferentiation" : 1
+          }
+        },
+        {
+          "BTTLastUpdatedAt" : 1762739690.9534011,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "908D0E46-91D4-4D5D-BFE1-6211E3AC5214",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTShortcutKeyboardType" : -2052004921,
+          "BTTRepeatRate" : 0.029999999329447736,
+          "BTTRepeatDelay" : 0.10000000149011612,
+          "BTTTriggerOnDown" : 1,
+          "BTTShortcutKeyCode" : 37,
+          "BTTShortcutAdvancedModifierKeys" : "8388608",
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 4,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.0585442,
+              "BTTTriggerParentUUID" : "908D0E46-91D4-4D5D-BFE1-6211E3AC5214",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "AC9EC6B4-F511-4FB6-9F92-22ED3F757A0C",
+              "BTTShortcutToSend" : "124",
+              "BTTShortcutKeyboardType" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 7,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ]
+        },
+        {
+          "BTTLastUpdatedAt" : 1762739690.9534168,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "8266E2CE-9EA5-4A1D-9241-742130E90234",
+          "BTTAdditionalConfiguration" : "524320",
+          "BTTShortcutScope" : 0,
+          "BTTShortcutKeyboardType" : -2052004921,
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 1,
+          "BTTShortcutKeyCode" : 14,
+          "BTTShortcutAdvancedModifierKeys" : "524320",
+          "BTTShortcutModifierKeys" : 524288,
+          "BTTOrder" : 7,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.058264,
+              "BTTTriggerParentUUID" : "8266E2CE-9EA5-4A1D-9241-742130E90234",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "08B91458-6180-42AD-99F2-FFB20241C853",
+              "BTTPredefinedActionType" : 49,
+              "BTTPredefinedActionName" : "Launch Application  or  Open File  or  Start Apple Script …",
+              "BTTLaunchPath" : "\/System\/Library\/CoreServices\/Finder.app",
+              "BTTShortcutKeyboardType" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 6,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ],
+          "BTTGestureNotes" : "open finder",
+          "BTTTriggerConfig" : {
+            "BTTLeftRightModifierDifferentiation" : 1
+          }
+        },
+        {
+          "BTTLastUpdatedAt" : 1762739690.953207,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "D7DA3D1B-323A-4022-8099-A09FE5F75257",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTShortcutKeyboardType" : -2052004921,
+          "BTTRepeatRate" : 0.02500000037252903,
+          "BTTRepeatDelay" : 0.10000000149011612,
+          "BTTTriggerOnDown" : 1,
+          "BTTShortcutKeyCode" : 4,
+          "BTTShortcutAdvancedModifierKeys" : "8388608",
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 1,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.0582361,
+              "BTTTriggerParentUUID" : "D7DA3D1B-323A-4022-8099-A09FE5F75257",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "BADD2723-3CFA-478E-A6C9-E358F0F7A22E",
+              "BTTShortcutToSend" : "123",
+              "BTTShortcutKeyboardType" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 4,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ]
+        },
+        {
+          "BTTLastUpdatedAt" : 1762739690.9534321,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "2ECC80F0-41DE-4547-99A6-61C1FC67DC04",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTShortcutKeyboardType" : -2052004921,
+          "BTTRepeatRate" : 0.029999999329447736,
+          "BTTRepeatDelay" : 0.10000000149011612,
+          "BTTTriggerOnDown" : 1,
+          "BTTShortcutKeyCode" : 40,
+          "BTTShortcutAdvancedModifierKeys" : "8388608",
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 3,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.0585608,
+              "BTTTriggerParentUUID" : "2ECC80F0-41DE-4547-99A6-61C1FC67DC04",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "2DB73089-DE36-4DBB-BA6D-6D7A8D512DD5",
+              "BTTShortcutToSend" : "126",
+              "BTTShortcutKeyboardType" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 6,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ]
+        },
+        {
+          "BTTLastUpdatedAt" : 1762739950.845747,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "C1FC2367-A964-42BE-AACC-E12B4C1C022B",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTShortcutScope" : 0,
+          "BTTShortcutKeyboardType" : -2052004921,
+          "BTTRepeatRate" : 0.029999999329447736,
+          "BTTRepeatDelay" : 0.10000000149011612,
+          "BTTTriggerOnDown" : 1,
+          "BTTShortcutKeyCode" : 38,
+          "BTTShortcutAdvancedModifierKeys" : "8388608",
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 2,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.0585399,
+              "BTTTriggerParentUUID" : "C1FC2367-A964-42BE-AACC-E12B4C1C022B",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "B02694A8-2C8B-420C-8424-FA7C8C5ED1C4",
+              "BTTShortcutToSend" : "125",
+              "BTTShortcutKeyboardType" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 5,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ]
+        },
+        {
+          "BTTLastUpdatedAt" : 1763269981.9998422,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "C09B69B7-0337-4AD1-B70E-40C1C79E4B5B",
+          "BTTAdditionalConfiguration" : "8912960",
+          "BTTShortcutScope" : 0,
+          "BTTShortcutKeyboardType" : -2052004921,
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 1,
+          "BTTShortcutKeyCode" : 125,
+          "BTTShortcutAdvancedModifierKeys" : "8912960",
+          "BTTShortcutModifierKeys" : 8912896,
+          "BTTOrder" : 9,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762739700.7820711,
+              "BTTTriggerParentUUID" : "C09B69B7-0337-4AD1-B70E-40C1C79E4B5B",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "65EB2704-011D-43C7-BF1B-0A0D65C1B837",
+              "BTTPredefinedActionType" : 32,
+              "BTTPredefinedActionName" : "Keyboard Illumination Down",
+              "BTTShortcutKeyboardType" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 5,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ],
+          "BTTGestureNotes" : "keyboard backlight down",
+          "BTTTriggerConfig" : {
+            "BTTLeftRightModifierDifferentiation" : 1
+          }
+        },
+        {
+          "BTTLastUpdatedAt" : 1762246368.0586009,
+          "BTTTriggerType" : 104,
+          "BTTTriggerTypeDescriptionReadOnly" : "3 Finger Tap",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTUUID" : "1BC3A95A-0416-4B26-9516-A41AC2E7FD5B",
+          "BTTOrder" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.058408,
+              "BTTTriggerParentUUID" : "1BC3A95A-0416-4B26-9516-A41AC2E7FD5B",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+              "BTTUUID" : "1B19E045-FECB-41C1-881A-7CF0A7A5C93F",
+              "BTTPredefinedActionType" : 1,
+              "BTTPredefinedActionName" : "Middle Click (At Current Mouse Position)",
+              "BTTOrder" : 8
+            }
+          ]
+        },
+        {
+          "BTTLastUpdatedAt" : 1762739690.9533849,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "5524A95A-E626-4E3F-9DA7-9F38F022A61E",
+          "BTTAdditionalConfiguration" : "524320",
+          "BTTShortcutScope" : 0,
+          "BTTShortcutKeyboardType" : -2052004921,
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 1,
+          "BTTShortcutKeyCode" : 11,
+          "BTTShortcutAdvancedModifierKeys" : "524320",
+          "BTTShortcutModifierKeys" : 524288,
+          "BTTOrder" : 6,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.0583491,
+              "BTTTriggerParentUUID" : "5524A95A-E626-4E3F-9DA7-9F38F022A61E",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "5F696E2F-165D-447E-AB68-7595B867472D",
+              "BTTPredefinedActionType" : 246,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+              "BTTTerminalCommand" : "open -na Google\\ Chrome",
+              "BTTShortcutKeyboardType" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 4,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ],
+          "BTTGestureNotes" : "open browser",
+          "BTTTriggerConfig" : {
+            "BTTLeftRightModifierDifferentiation" : 1
+          }
+        },
+        {
+          "BTTLastUpdatedAt" : 1762739690.9533181,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "C64FC82F-78B5-465F-B01A-A1A4D82910B5",
+          "BTTAdditionalConfiguration" : "524320",
+          "BTTShortcutScope" : 0,
+          "BTTShortcutKeyboardType" : -2052004921,
+          "BTTTriggerOnDown" : 1,
+          "BTTNotesInsteadOfDescription" : 1,
+          "BTTShortcutKeyCode" : 17,
+          "BTTShortcutAdvancedModifierKeys" : "524320",
+          "BTTShortcutModifierKeys" : 524288,
+          "BTTOrder" : 5,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.058557,
+              "BTTTriggerParentUUID" : "C64FC82F-78B5-465F-B01A-A1A4D82910B5",
+              "BTTIsPureAction" : true,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "B45F59AD-7E62-4018-A9B1-1585D47DFE64",
+              "BTTPredefinedActionType" : 246,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+              "BTTTerminalCommand" : "open -na kitty --args -1 -d=$HOME",
+              "BTTShortcutKeyboardType" : 0,
+              "BTTShortcutKeyCode" : -1,
+              "BTTOrder" : 3,
+              "BTTAutoAdaptToKeyboardLayout" : 0
+            }
+          ],
+          "BTTGestureNotes" : "open terminal",
+          "BTTTriggerConfig" : {
+            "BTTLeftRightModifierDifferentiation" : 1
+          }
+        },
+        {
+          "BTTLastUpdatedAt" : 1762739690.9532971,
+          "BTTTriggerType" : 630,
+          "BTTTriggerTypeDescriptionReadOnly" : "Group",
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+          "BTTShortcutKeyboardType" : 0,
+          "BTTTriggerOnDown" : 1,
+          "BTTGroupName" : "yabai",
+          "BTTShortcutKeyCode" : -1,
+          "BTTOrder" : 0,
+          "BTTAutoAdaptToKeyboardLayout" : 0,
+          "BTTActionsToExecute" : [
+            {
+              "BTTLastUpdatedAt" : 1762246368.058496,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "9594A217-7630-4AD4-BCF8-48CDC98C7929",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 48,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 0,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0584521,
+                  "BTTTriggerParentUUID" : "9594A217-7630-4AD4-BCF8-48CDC98C7929",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "B9EE44A0-17DA-4B89-B825-3E3578B88A54",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m display --focus recent",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 3,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus recent display",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.058501,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "B27C1B1B-1201-431D-AB2F-41A936DE5897",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 48,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 1,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058269,
+                  "BTTTriggerParentUUID" : "B27C1B1B-1201-431D-AB2F-41A936DE5897",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "992A1C39-1071-4DFA-B6F2-031EE60977C9",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --display recent --focus",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to recent display",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0585351,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "B049E181-DE1B-4790-B9B7-2C25EFE73F4A",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTRepeatRate" : 0.10000000149011612,
+              "BTTRepeatDelay" : 0.05000000074505806,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 45,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 2,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0585971,
+                  "BTTTriggerParentUUID" : "B049E181-DE1B-4790-B9B7-2C25EFE73F4A",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "EE1F73C3-F8B1-467B-94A5-9137579A796B",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus next",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 5,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus next space",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0582781,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "A4C78E5F-D8EE-494F-81A0-713E0F039CBD",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTRepeatRate" : 0.10000000149011612,
+              "BTTRepeatDelay" : 0.05000000074505806,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 35,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 3,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058435,
+                  "BTTTriggerParentUUID" : "A4C78E5F-D8EE-494F-81A0-713E0F039CBD",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "51A32F61-6BA7-4A79-83D8-AFCF91EC4F6B",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus prev",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 6,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus previous space",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.058362,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "55F3CF83-970F-4B67-9B26-2DB69FBB3988",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 45,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 4,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0585699,
+                  "BTTTriggerParentUUID" : "55F3CF83-970F-4B67-9B26-2DB69FBB3988",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "A416FD7E-58FF-4710-9C41-1D2DBCA34938",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space next --focus",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 7,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to next space",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0584311,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "0DEC0F54-DC4C-4265-95E4-53B243E2E804",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 35,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 5,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058311,
+                  "BTTTriggerParentUUID" : "0DEC0F54-DC4C-4265-95E4-53B243E2E804",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "380B0C77-6E2D-42C3-8BBB-23A8C39CABE1",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space prev --focus",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 8,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to previous space",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0582449,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "785A80AF-9767-4658-9E17-1D237EF0FA86",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 18,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 6,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0583439,
+                  "BTTTriggerParentUUID" : "785A80AF-9767-4658-9E17-1D237EF0FA86",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "E2B3522C-CC4D-466D-BC0F-CD81B3B01708",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 1",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 1",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0584788,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "6FA664FE-5D82-4EBF-B8EE-ED98B28A6EAA",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 19,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 7,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.05832,
+                  "BTTTriggerParentUUID" : "6FA664FE-5D82-4EBF-B8EE-ED98B28A6EAA",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "89649434-A4E5-43CA-81AD-2AA5BA897044",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 2",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 2",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0583711,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "B32FD0B2-B642-4D2B-8AA4-97BECEB7D404",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 20,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 8,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058466,
+                  "BTTTriggerParentUUID" : "B32FD0B2-B642-4D2B-8AA4-97BECEB7D404",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "7D83D701-F71D-4F12-891C-F8D485A1E246",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 3",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 5,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 3",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.058403,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "4F78B13C-9884-4CB1-8F2B-BC7001FB30AD",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 21,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 9,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.05847,
+                  "BTTTriggerParentUUID" : "4F78B13C-9884-4CB1-8F2B-BC7001FB30AD",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "F04BDF94-19E0-4A8A-BE8B-157AD5DE634F",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 4",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 6,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 4",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0582941,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "097D0D7F-ACB1-490E-AD59-636787E6325C",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 23,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 10,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058444,
+                  "BTTTriggerParentUUID" : "097D0D7F-ACB1-490E-AD59-636787E6325C",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "D8E31B48-669A-4748-8C57-72984F75A302",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 5",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 7,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 5",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0583758,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "EE78A7DE-F5EA-4018-A167-B53BBDAC5CDF",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 22,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 11,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0583301,
+                  "BTTTriggerParentUUID" : "EE78A7DE-F5EA-4018-A167-B53BBDAC5CDF",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "85D4D914-4DAB-43AD-AE3F-8E59CEFA2FFF",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 6",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 8,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 6",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.058614,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "04E352DE-7C53-4D40-892D-E4CC018C9D7C",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 26,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 12,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0584741,
+                  "BTTTriggerParentUUID" : "04E352DE-7C53-4D40-892D-E4CC018C9D7C",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "626C50A5-D84F-4B9B-A856-99AD18014A3B",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 7",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 9,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 7",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0582891,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "C762A92E-8752-451D-A254-17597D9994AA",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 28,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 13,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058367,
+                  "BTTTriggerParentUUID" : "C762A92E-8752-451D-A254-17597D9994AA",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "CC81285E-C767-4065-9395-F0E43FD2B5C9",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 8",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 10,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 8",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0583529,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "8DF9D096-6714-4D62-B888-343A729284A6",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTLayoutIndependentChar" : "9",
+              "BTTShortcutKeyCode" : 25,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 14,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0586061,
+                  "BTTTriggerParentUUID" : "8DF9D096-6714-4D62-B888-343A729284A6",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "D9B7FAD8-4753-4E65-B1EE-13039E550E3A",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 9",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 11,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 9",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0584559,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "4122F60C-E281-4C1C-9FC3-D5F182F1530D",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 29,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 15,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058358,
+                  "BTTTriggerParentUUID" : "4122F60C-E281-4C1C-9FC3-D5F182F1530D",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "8338BBEB-3C4A-4A62-8A03-F32C644E1BFE",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m space --focus 10",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 12,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "focus space 10",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0582399,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "73663464-3118-4E42-B94A-0B3BF883FC69",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 18,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 16,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.05826,
+                  "BTTTriggerParentUUID" : "73663464-3118-4E42-B94A-0B3BF883FC69",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "5D85A222-0BC5-47CC-9259-DCF51ACDC018",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 1",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 1",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0583339,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "7B521974-63DA-4B37-B550-3052A3E4E93C",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 19,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 17,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0582728,
+                  "BTTTriggerParentUUID" : "7B521974-63DA-4B37-B550-3052A3E4E93C",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "C793C2CF-B18F-4FE8-A505-C57A6B5EC17C",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 2",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 2",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.058553,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "B31C7D77-D0CD-4526-AA6E-127C75DE46F8",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 20,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 18,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0584919,
+                  "BTTTriggerParentUUID" : "B31C7D77-D0CD-4526-AA6E-127C75DE46F8",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "590CF576-2F14-4D22-8601-5E21284648B2",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 3",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 3",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0584168,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "B8E2CDAC-E87D-409A-B67B-428E4ACDB14A",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 21,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 19,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058521,
+                  "BTTTriggerParentUUID" : "B8E2CDAC-E87D-409A-B67B-428E4ACDB14A",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "DC2F1FCC-A652-4E11-B8D0-1A446975E874",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 4",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 4",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0584831,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "A0455FD9-E809-474B-AF55-08BB14E43A39",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 23,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 20,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0583072,
+                  "BTTTriggerParentUUID" : "A0455FD9-E809-474B-AF55-08BB14E43A39",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "9D0818A5-6CB5-4603-B022-EA01BADC956A",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 5",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 5",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0582509,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "9F0EB814-C5EC-4736-B96F-A0E47F4DC5BB",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 22,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 21,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0583901,
+                  "BTTTriggerParentUUID" : "9F0EB814-C5EC-4736-B96F-A0E47F4DC5BB",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "BDFB0FEC-16FF-4A88-9663-D0658F32BDF1",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 6",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 6",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0586228,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "74544704-EF50-44CC-A2AA-880F9B44301C",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 26,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 22,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058574,
+                  "BTTTriggerParentUUID" : "74544704-EF50-44CC-A2AA-880F9B44301C",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "B641FE19-4A5A-44A2-BE41-030D3CE0D07D",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 7",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 7",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.058255,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "45A9AEA5-E876-442E-9E3C-7A1806D56877",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 28,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 23,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0585818,
+                  "BTTTriggerParentUUID" : "45A9AEA5-E876-442E-9E3C-7A1806D56877",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "C3D5EEF2-EE58-45E4-879C-A7943A87AED2",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 8",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 4,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 8",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0585251,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "F32D7E9D-93D8-4A67-BD22-034A3F8A62D5",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 25,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 24,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0583801,
+                  "BTTTriggerParentUUID" : "F32D7E9D-93D8-4A67-BD22-034A3F8A62D5",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "BA1F8CD1-A7DA-4083-9D67-694008DB392C",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 9",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 11,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 9",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0585299,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "FA24F0AF-EA02-4364-8117-E7F9E84BBFB9",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 29,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 25,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0584879,
+                  "BTTTriggerParentUUID" : "FA24F0AF-EA02-4364-8117-E7F9E84BBFB9",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "F8C859DD-74B3-4206-8EC9-AB7DE76FADB6",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --space 10",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 11,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "move to space 10",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762246368.0584259,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "CF64E922-0117-45CE-A08D-4FEC17DA2BFD",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 36,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 26,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.058399,
+                  "BTTTriggerParentUUID" : "CF64E922-0117-45CE-A08D-4FEC17DA2BFD",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "42283793-AE07-424B-BAF5-92C60125B4FE",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --toggle zoom-parent",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 5,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "toogle zoom parent",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762588427.084372,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "A3209670-0F10-4588-806D-96E3410D3661",
+              "BTTAdditionalConfiguration" : "655394",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 36,
+              "BTTShortcutAdvancedModifierKeys" : "655394",
+              "BTTShortcutModifierKeys" : 655360,
+              "BTTOrder" : 27,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0584478,
+                  "BTTTriggerParentUUID" : "A3209670-0F10-4588-806D-96E3410D3661",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "97F259E4-6478-407B-98AD-A3FB9FC15463",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --toggle zoom-fullscreen",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 6,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "toogle zoom full window",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            },
+            {
+              "BTTLastUpdatedAt" : 1762588421.9281189,
+              "BTTTriggerType" : 0,
+              "BTTTriggerParentUUID" : "0802D991-249C-490A-976D-F0B357913C38",
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTUUID" : "556315EC-9371-4B50-8E99-D06292606CCD",
+              "BTTAdditionalConfiguration" : "524320",
+              "BTTShortcutScope" : 0,
+              "BTTShortcutKeyboardType" : -2052004921,
+              "BTTTriggerOnDown" : 1,
+              "BTTNotesInsteadOfDescription" : 1,
+              "BTTShortcutKeyCode" : 3,
+              "BTTShortcutAdvancedModifierKeys" : "524320",
+              "BTTShortcutModifierKeys" : 524288,
+              "BTTOrder" : 28,
+              "BTTAutoAdaptToKeyboardLayout" : 0,
+              "BTTActionsToExecute" : [
+                {
+                  "BTTLastUpdatedAt" : 1762246368.0585661,
+                  "BTTTriggerParentUUID" : "556315EC-9371-4B50-8E99-D06292606CCD",
+                  "BTTIsPureAction" : true,
+                  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+                  "BTTUUID" : "0F8B30A7-4EF4-4D18-B63A-C1E57D268762",
+                  "BTTPredefinedActionType" : 246,
+                  "BTTPredefinedActionName" : "Execute Terminal Command (Synchronous, blocking)",
+                  "BTTTerminalCommand" : "\/run\/current-system\/sw\/bin\/yabai -m window --toggle native-fullscreen",
+                  "BTTShortcutKeyboardType" : 0,
+                  "BTTShortcutKeyCode" : -1,
+                  "BTTOrder" : 7,
+                  "BTTAutoAdaptToKeyboardLayout" : 0
+                }
+              ],
+              "BTTGestureNotes" : "toogle native fullscreen",
+              "BTTTriggerConfig" : {
+                "BTTLeftRightModifierDifferentiation" : 1
+              }
+            }
+          ],
+          "BTTAdditionalData" : "eyJCVFRJY29uQ29uZmlnSWNvbkhlaWdodCI6MjUsIkJUVEljb25Db25maWdJY29uSWNvbldpZHRoIjoyNX0="
+        }
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}
