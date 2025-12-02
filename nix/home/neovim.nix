@@ -21,5 +21,19 @@ in {
     programs.neovim = {
       enable = true;
     };
+
+    home.file = {
+      ".config/nvim/lua/config/options.lua" = {
+        source = ../config/nvim/lua/config/options.lua;
+        force = true;
+        mutable = true;
+      };
+
+      ".config/nvim/lua/plugins/colorscheme.lua" = {
+        source = ../config/nvim/lua/plugins/colorscheme.lua;
+        force = true;
+        mutable = true;
+      };
+    };
   };
 }

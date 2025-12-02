@@ -36,8 +36,6 @@ in {
       ];
       interactiveShellInit = ''
         fish_vi_key_bindings
-        starship init fish | source
-        fzf --fish | source
 
         ls ~/env/*.fish | xargs -I {} bash -c 'source {}'
       '';
@@ -66,6 +64,12 @@ in {
       enableZshIntegration = true;
       enableBashIntegration = true;
       enableInteractive = true;
+    };
+    programs.fzf = {
+      enable = true;
+      enableFishIntegration = true;
+      enableZshIntegration = true;
+      enableBashIntegration = true;
     };
     programs.tmux = {
       enable = true;
