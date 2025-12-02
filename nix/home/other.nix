@@ -16,8 +16,7 @@ in {
 
   config = lib.mkIf cfg.enable {
     home.packages = with pkgs; [
-      yazi
-      lazygit
+      yt-dlp
     ];
   };
 }

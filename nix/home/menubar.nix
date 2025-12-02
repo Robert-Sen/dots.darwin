@@ -18,9 +18,9 @@ in {
     home.packages = with pkgs; [
       ice-bar
     ];
-    programs.sketchybar = {
-        enable = true;
-        service.enable = true;
-    };
+    # programs.sketchybar = {
+    #   enable = true;
+    #   service.enable = true;
+    # };
   };
 }

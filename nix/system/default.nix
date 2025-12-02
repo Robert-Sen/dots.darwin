@@ -11,6 +11,7 @@
   };
 in {
   imports = [
+    ./brew.nix
     ./shell.nix
     ./sketchybar.nix
     ./yabai.nix
@@ -19,11 +20,13 @@ in {
   # List packages installed in system profile. To search by name, run:
   # $ nix-env -qaP | grep wget
   environment.systemPackages = with pkgs; [
+    openssh
     zsh
     vim
     neovim
     alejandra
     raycast
+    nix-prefetch
   ];
 
   system.primaryUser = username;

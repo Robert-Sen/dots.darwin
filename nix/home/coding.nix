@@ -15,11 +15,26 @@ in {
   };
 
   config = lib.mkIf cfg.enable {
-    home.packages = with pkgs; [
-      orbstack
-      vscode
-      zed-editor
-      helix
-    ];
+    home.packages =
+      (with pkgs; [
+        orbstack
+        vscode
+        zed-editor
+        helix
+      ])
+      ++ (with pkgs; [
+        gcc14
+        gdb
+        go
+        rustup
+        nodejs_24
+        python314
+        typst
+        tinymist
+        elan
+
+        nodePackages.pnpm
+        nodePackages.yarn
+      ]);
   };
 }

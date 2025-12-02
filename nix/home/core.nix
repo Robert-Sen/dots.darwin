@@ -24,6 +24,8 @@ in {
       tree
       fastfetch
       fzf
+      yazi
+      lazygit
     ];
   };
 }

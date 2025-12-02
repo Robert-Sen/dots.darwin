@@ -8,17 +8,17 @@
   cfg = config.nix-darwin.home;
 in {
   imports = [
+    ./ai.nix
     ./basic.nix
     ./coding.nix
     ./core.nix
-    ./lang.nix
     ./menubar.nix
     ./mutable.nix
     ./neovim.nix
     ./shell.nix
     ./stats.nix
     ./terminal.nix
-    ./util.nix
+    ./other.nix
   ];
 
   options.nix-darwin.home = {

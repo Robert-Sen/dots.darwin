@@ -19,7 +19,46 @@ in {
       enable = true;
     };
     programs.fish = {
-      enable = false;
+      enable = true;
+      plugins = [
+        {
+          name = "z";
+          src = pkgs.fishPlugins.z.src;
+        }
+        {
+          name = "autopair";
+          src = pkgs.fishPlugins.autopair.src;
+        }
+        {
+          name = "macos";
+          src = pkgs.fishPlugins.macos.src;
+        }
+      ];
+      interactiveShellInit = ''
+        fish_vi_key_bindings
+        starship init fish | source
+        fzf --fish | source
+
+        ls ~/env/*.fish | xargs -I {} bash -c 'source {}'
+      '';
+      shellAliases = {
+        lg = "lazygit";
+        ################################
+        g = "git";
+        ga = "git add";
+        gaa = "git add --all";
+        gst = "git status";
+
+        gb = "git branch";
+        gco = "git checkout";
+
+        gl = "git pull";
+
+        gcmsg = "git commit -m";
+        gp = "git push";
+        gpf = "git push --force";
+        ################################
+      };
     };
     programs.starship = {
       enable = true;
@@ -30,22 +69,6 @@ in {
     };
     programs.tmux = {
       enable = true;
-    };
-
-    home.packages = with pkgs; [
-      fish
-      fishPlugins.z
-      fishPlugins.autopair
-      fishPlugins.plugin-git
-      fishPlugins.macos
-    ];
-
-    home.file = {
-      ".config/fish/config.fish" = {
-        source = ../config/fish/config.fish;
-        force = true;
-        mutable = true;
-      };
     };
   };
 }
