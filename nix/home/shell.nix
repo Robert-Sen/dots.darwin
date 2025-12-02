@@ -15,6 +15,11 @@ in {
   };
 
   config = lib.mkIf cfg.enable {
+    home.shell = {
+      enableFishIntegration = true;
+      enableZshIntegration = true;
+      enableBashIntegration = true;
+    };
     programs.zsh = {
       enable = true;
     };
@@ -60,16 +65,10 @@ in {
     };
     programs.starship = {
       enable = true;
-      enableFishIntegration = true;
-      enableZshIntegration = true;
-      enableBashIntegration = true;
       enableInteractive = true;
     };
     programs.fzf = {
       enable = true;
-      enableFishIntegration = true;
-      enableZshIntegration = true;
-      enableBashIntegration = true;
     };
     programs.tmux = {
       enable = true;

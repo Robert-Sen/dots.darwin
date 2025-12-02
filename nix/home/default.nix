@@ -15,6 +15,7 @@ in {
     ./menubar.nix
     ./mutable.nix
     ./neovim.nix
+    ./nix.nix
     ./shell.nix
     ./stats.nix
     ./terminal.nix

@@ -26,7 +26,6 @@ in {
     neovim
     alejandra
     raycast
-    nix-prefetch
   ];
 
   system.primaryUser = username;
