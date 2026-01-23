@@ -16,32 +16,42 @@
     };
   };
 
-  outputs = inputs @ {...}: let
-    system = "aarch64-darwin";
-    hostname = "Robert-Sens-MacBook-Air";
-    username = "robert-sen";
+  outputs =
+    inputs@{ ... }:
+    let
+      system = "aarch64-darwin";
+      hostname = "Robert-Sens-MacBook-Air";
+      username = "robert-sen";
 
-    specialArgs = {
-      inherit inputs system hostname username;
+      specialArgs = {
+        inherit
+          inputs
+          system
+          hostname
+          username
+          ;
+      };
+    in
+    {
+      darwinConfigurations."${hostname}" = inputs.nix-darwin.lib.darwinSystem {
+        inherit specialArgs;
+        modules = [
+          ./system
+
+          inputs.home-manager.darwinModules.home-manager
+          {
+            nixpkgs = {
+              config.allowUnfree = true;
+            };
+            home-manager.useGlobalPkgs = true;
+            home-manager.useUserPackages = true;
+            home-manager.extraSpecialArgs = specialArgs;
+            home-manager.backupFileExtension = "bak";
+            home-manager.users.${username} = import ./home;
+          }
+        ];
+      };
+
+      formatter.${system} = inputs.nixpkgs.legacyPackages.${system}.nixfmt-tree;
     };
-  in {
-    darwinConfigurations."${hostname}" = inputs.nix-darwin.lib.darwinSystem {
-      inherit specialArgs;
-      modules = [
-        ./system
-
-        inputs.home-manager.darwinModules.home-manager
-        {
-          nixpkgs = {config.allowUnfree = true;};
-          home-manager.useGlobalPkgs = true;
-          home-manager.useUserPackages = true;
-          home-manager.extraSpecialArgs = specialArgs;
-          home-manager.backupFileExtension = "bak";
-          home-manager.users.${username} = import ./home;
-        }
-      ];
-    };
-
-    formatter.${system} = inputs.nixpkgs.legacyPackages.${system}.alejandra;
-  };
 }

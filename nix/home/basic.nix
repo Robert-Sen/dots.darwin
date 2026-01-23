@@ -3,9 +3,11 @@
   lib,
   pkgs,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.home.basic;
-in {
+in
+{
   options.nix-darwin.home.basic = {
     enable = lib.mkOption {
       type = lib.types.bool;

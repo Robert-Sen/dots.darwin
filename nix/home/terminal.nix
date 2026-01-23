@@ -3,9 +3,11 @@
   lib,
   pkgs,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.home.terminal;
-in {
+in
+{
   options.nix-darwin.home.terminal = {
     enable = lib.mkOption {
       type = lib.types.bool;
@@ -27,6 +29,16 @@ in {
     home.file = {
       ".config/kitty/kitty.conf" = {
         source = ../config/kitty/kitty.conf;
+        force = true;
+        mutable = true;
+      };
+      ".config/kitty/dark-theme.auto.conf" = {
+        source = ../config/kitty/dark-theme.auto.conf;
+        force = true;
+        mutable = true;
+      };
+      ".config/kitty/light-theme.auto.conf" = {
+        source = ../config/kitty/light-theme.auto.conf;
         force = true;
         mutable = true;
       };

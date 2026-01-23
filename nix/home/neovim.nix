@@ -3,9 +3,11 @@
   lib,
   pkgs,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.home.neovim;
-in {
+in
+{
   options.nix-darwin.home.neovim = {
     enable = lib.mkOption {
       type = lib.types.bool;

@@ -3,18 +3,18 @@
   system,
   username,
   ...
-}: let
+}:
+let
   self = inputs.self;
   pkgs = import inputs.nixpkgs {
     inherit system;
     config.allowUnfree = true;
   };
-in {
+in
+{
   imports = [
     ./brew.nix
     ./shell.nix
-    ./sketchybar.nix
-    ./yabai.nix
   ];
 
   # List packages installed in system profile. To search by name, run:
@@ -25,7 +25,6 @@ in {
     vim
     neovim
     alejandra
-    raycast
   ];
 
   system.primaryUser = username;

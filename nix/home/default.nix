@@ -4,9 +4,11 @@
   pkgs,
   username,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.home;
-in {
+in
+{
   imports = [
     ./ai.nix
     ./basic.nix
@@ -35,7 +37,7 @@ in {
       username = username;
       homeDirectory = "/Users/${username}";
 
-      stateVersion = "25.11";
+      stateVersion = "26.05";
     };
 
     programs.git = {
@@ -46,7 +48,7 @@ in {
       };
     };
 
-    home.packages = with pkgs; [];
+    home.packages = with pkgs; [ ];
     programs.home-manager.enable = true;
   };
 }

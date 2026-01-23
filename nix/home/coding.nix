@@ -3,9 +3,11 @@
   lib,
   pkgs,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.home.coding;
-in {
+in
+{
   options.nix-darwin.home.coding = {
     enable = lib.mkOption {
       type = lib.types.bool;
@@ -17,10 +19,11 @@ in {
   config = lib.mkIf cfg.enable {
     home.packages =
       (with pkgs; [
-        orbstack
         vscode
         zed-editor
         helix
+        xcodes
+        antigravity
       ])
       ++ (with pkgs; [
         gcc14
@@ -32,6 +35,7 @@ in {
         typst
         tinymist
         elan
+        nil
 
         nodePackages.pnpm
         nodePackages.yarn

@@ -3,9 +3,11 @@
   lib,
   pkgs,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.system.shell;
-in {
+in
+{
   options.nix-darwin.system.shell = {
     enable = lib.mkOption {
       type = lib.types.bool;

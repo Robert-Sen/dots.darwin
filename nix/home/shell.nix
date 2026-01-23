@@ -3,9 +3,11 @@
   lib,
   pkgs,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.home.shell;
-in {
+in
+{
   options.nix-darwin.home.shell = {
     enable = lib.mkOption {
       type = lib.types.bool;
@@ -48,6 +50,7 @@ in {
         lg = "lazygit";
         ################################
         g = "git";
+        glg = "git log";
         ga = "git add";
         gaa = "git add --all";
         gst = "git status";
@@ -61,6 +64,19 @@ in {
         gp = "git push";
         gpf = "git push --force";
         ################################
+        "-" = "cd -";
+        ".." = "cd ..";
+        "..." = "cd ../..";
+        "...." = "cd ../../..";
+        "....." = "cd ../../../..";
+        ################################
+        dk = "docker";
+        dkc = "docker compose";
+        dkcu = "docker compose up";
+        dkcud = "docker compose up -d";
+        dkcd = "docker compose down";
+        dkn = "docker network";
+        dkv = "docker volume";
       };
     };
     programs.starship = {

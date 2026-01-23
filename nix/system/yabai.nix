@@ -3,19 +3,21 @@
   lib,
   pkgs,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.system.yabai;
-in {
+in
+{
   options.nix-darwin.system.yabai = {
     enable = lib.mkOption {
       type = lib.types.bool;
-      default = true;
+      default = false;
       description = "Whether to enable yabai";
     };
   };
 
   config = lib.mkIf cfg.enable {
-    environment.systemPackages = [pkgs.yabai];
+    environment.systemPackages = [ pkgs.yabai ];
 
     services.yabai = {
       enable = true;

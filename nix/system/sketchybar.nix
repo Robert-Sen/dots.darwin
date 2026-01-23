@@ -3,9 +3,11 @@
   lib,
   pkgs,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.system.sketchybar;
-in {
+in
+{
   options.nix-darwin.system.sketchybar = {
     enable = lib.mkOption {
       type = lib.types.bool;

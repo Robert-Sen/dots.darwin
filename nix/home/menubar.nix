@@ -3,9 +3,11 @@
   lib,
   pkgs,
   ...
-}: let
+}:
+let
   cfg = config.nix-darwin.home.menubar;
-in {
+in
+{
   options.nix-darwin.home.menubar = {
     enable = lib.mkOption {
       type = lib.types.bool;
