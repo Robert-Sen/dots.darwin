@@ -19,6 +19,7 @@ in
   config = lib.mkIf cfg.enable {
     home.packages = with pkgs; [
       coreutils
+      wget
       ripgrep
       fd
       jq
@@ -28,6 +29,7 @@ in
       fzf
       yazi
       lazygit
+      lazydocker
     ];
   };
 }

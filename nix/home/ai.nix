@@ -18,7 +18,6 @@ in
 
   config = lib.mkIf cfg.enable {
     home.packages = with pkgs; [
-      github-copilot-cli
       codex
       claude-code
       gemini-cli-bin

@@ -19,14 +19,16 @@ in
   config = lib.mkIf cfg.enable {
     home.packages = with pkgs; [
       google-chrome
-      firefox
-      qutebrowser
       telegram-desktop
       discord
       slack
       wechat
       obsidian
       spotify
+      musescore
+      input-leap
     ];
+    
+    programs.firefox.enable = true;
   };
 }

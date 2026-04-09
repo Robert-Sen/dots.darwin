@@ -20,6 +20,7 @@ in
     home.packages = with pkgs; [
       iterm2
       kitty
+      ghostty-bin
     ];
     programs.kitty = {
       enable = false;

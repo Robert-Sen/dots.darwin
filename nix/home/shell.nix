@@ -48,6 +48,7 @@ in
       '';
       shellAliases = {
         lg = "lazygit";
+        ldk = "lazydocker";
         ################################
         g = "git";
         glg = "git log";
@@ -64,7 +65,6 @@ in
         gp = "git push";
         gpf = "git push --force";
         ################################
-        "-" = "cd -";
         ".." = "cd ..";
         "..." = "cd ../..";
         "...." = "cd ../../..";

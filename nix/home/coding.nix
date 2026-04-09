@@ -23,11 +23,11 @@ in
         zed-editor
         helix
         xcodes
-        antigravity
+        # antigravity
       ])
       ++ (with pkgs; [
         gcc14
-        gdb
+        # gdb
         go
         rustup
         nodejs_24
