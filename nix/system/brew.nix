@@ -12,25 +12,19 @@ in
     enable = lib.mkOption {
       type = lib.types.bool;
       default = true;
-      description = "Whether to enable system brew module";
+      description = "Whether to enable nix-darwin system brew module";
     };
   };
 
   config = lib.mkIf cfg.enable {
     homebrew = {
       enable = true;
-      brews = [
-        "podman"
-        "podman-compose"
-      ];
+      brews = [];
       casks = [
         "font-noto-sans-sc"
         "font-noto-serif-sc"
-        "lulu"
+        "jordanbaird-ice"
         "nikitabobko/tap/aerospace"
-        "raycast"
-        "orbstack"
-        "podman-desktop"
       ];
     };
 

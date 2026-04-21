@@ -14,17 +14,8 @@ in
 {
   imports = [
     ./brew.nix
-    ./shell.nix
-  ];
-
-  # List packages installed in system profile. To search by name, run:
-  # $ nix-env -qaP | grep wget
-  environment.systemPackages = with pkgs; [
-    openssh
-    zsh
-    vim
-    neovim
-    alejandra
+    ./common.nix
+    ./desktop.nix
   ];
 
   system.primaryUser = username;
@@ -46,4 +37,5 @@ in
     home = "/Users/${username}";
     shell = pkgs.fish;
   };
+  programs.fish.enable = true;
 }
